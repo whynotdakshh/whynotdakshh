@@ -68,7 +68,7 @@ Continuously learning new technologies and improving development skills.
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord"/>
 </a>
 
 <a href="#">
@@ -76,7 +76,7 @@ Continuously learning new technologies and improving development skills.
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
