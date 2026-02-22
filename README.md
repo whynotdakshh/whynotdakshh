@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dakshh</h1>
+<h3 align="center">💻 Aspiring Software Developer | Problem Solver</h3>
 
-<!--
-**whynotdakshh/whynotdakshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about programming, problem solving and building real-world projects 🚀 <br>
+Continuously learning new technologies and improving development skills.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Aspiring Software Developer
+- 🧠 Strong interest in Software Development & Programming
+- ⚡ Love writing clean and efficient code
+- 🌱 Always learning and exploring new technologies
+- 🎯 Goal: Become a Professional Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,git,github,vscode" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- Advanced JavaScript
+- Problem Solving Techniques
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=whynotdakshh&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whynotdakshh&theme=tokyonight" height="170"/>
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynotdakshh&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Code • Build • Improve • Repeat ✨
+</p>
