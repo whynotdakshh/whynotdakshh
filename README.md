@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dakshh</h1>
-<h3 align="center">💻 Aspiring Software Developer | Problem Solver</h3>
+<h3 align="center">💻 Aspiring Software Engineer • Discord Bot Developer • Problem Solver</h3>
 
 <p align="center">
 Passionate about programming, problem solving and building real-world projects 🚀 <br>
@@ -68,15 +68,15 @@ Continuously learning new technologies and improving development skills.
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord"/>
+<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
