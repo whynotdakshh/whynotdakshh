@@ -6,6 +6,12 @@ Passionate about programming, problem solving and building real-world projects �
 Continuously learning new technologies and improving development skills.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Mindset-Clean%20Code-2ea44f"/>
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20Daily-orange"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -21,7 +27,7 @@ Continuously learning new technologies and improving development skills.
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,python,cpp,css,java,html,ts,go,vscode,tailwind,mysql,mongodb" />
 </p>
 
 ---
