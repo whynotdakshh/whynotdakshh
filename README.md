@@ -12,15 +12,19 @@ Continuously learning new technologies and improving development skills.
   <img src="https://img.shields.io/badge/Status-Learning%20Daily-orange"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=whynotdakshh&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 💻 Aspiring Software Developer
-- 🧠 Strong interest in Software Development & Programming
-- ⚡ Love writing clean and efficient code
-- 🌱 Always learning and exploring new technologies
-- 🎯 Goal: Become a Professional Software Engineer
+- 💻 Aspiring Software Developer  
+- 🧠 Strong interest in Software Development & Programming  
+- ⚡ Love writing clean and efficient code  
+- 🌱 Always learning and exploring new technologies  
+- 🎯 Goal: Become a Professional Software Engineer  
 
 ---
 
@@ -52,10 +56,10 @@ Continuously learning new technologies and improving development skills.
 
 ## 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- Backend Development
-- Advanced JavaScript
-- Problem Solving Techniques
+- Data Structures & Algorithms  
+- Backend Development  
+- Advanced JavaScript  
+- Problem Solving Techniques  
 
 ---
 
@@ -63,18 +67,16 @@ Continuously learning new technologies and improving development skills.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=whynotdakshh&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=whynotdakshh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whynotdakshh&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynotdakshh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 
 </p>
 
----
-
-## 📈 Most Used Languages
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynotdakshh&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=whynotdakshh&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 ---
