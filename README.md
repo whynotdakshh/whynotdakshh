@@ -16,7 +16,7 @@ Continuously learning new technologies and improving development skills.
 <img src="https://komarev.com/ghpvc/?username=whynotdakshh&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -26,7 +26,7 @@ Continuously learning new technologies and improving development skills.
 - 🌱 Always learning and exploring new technologies  
 - 🎯 Goal: Become a Professional Software Engineer  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@ Continuously learning new technologies and improving development skills.
 
 </p>
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -61,7 +61,7 @@ Continuously learning new technologies and improving development skills.
 - Advanced JavaScript  
 - Problem Solving Techniques  
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -79,7 +79,7 @@ Continuously learning new technologies and improving development skills.
 
 </p>
 
----
+
 
 ## 🐍 Contribution Snake
 
@@ -87,7 +87,7 @@ Continuously learning new technologies and improving development skills.
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -107,7 +107,7 @@ Continuously learning new technologies and improving development skills.
 
 </p>
 
----
+
 
 <p align="center">
 ✨ Code • Build • Improve • Repeat ✨
