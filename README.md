@@ -56,7 +56,7 @@
 
 ## 🎧 Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1084285203616366712?theme=dark\&bg=1a1b27\&animated=true\&idleMessage=Probably%20breaking%20something)](https://discord.com/users/1084285203616366712)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1304640723458457712?theme=dark\&bg=1a1b27\&animated=true\&idleMessage=Probably%20breaking%20something)](https://discord.com/users/1304640723458457712)
 
 ---
 
